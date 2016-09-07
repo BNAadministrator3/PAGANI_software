@@ -1,0 +1,74 @@
+﻿生成启动时间为 2016/5/26 14:20:02。
+     1>项目“D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Louvain_Modularity\Louvain_Modu_x\Louvain_Modu_x.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\..\common /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt L_Modularityx_CPU.cpp
+         L_Modularityx_CPU.cpp
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(164): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(165): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(172): warning C4244: “=”: 从“double”转换到“real_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(177): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(178): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(188): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(189): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(191): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(195): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(199): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(207): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(210): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(238): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(264): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(275): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(276): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(295): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(296): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(334): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(335): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(344): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(345): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(348): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(349): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(351): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(355): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(359): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(370): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(483): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(484): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(486): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(487): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(488): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(527): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(528): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(541): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(546): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(550): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(561): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(564): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(593): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(599): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(600): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(603): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(605): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(608): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(635): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(646): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(647): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(714): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(751): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(830): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(831): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(847): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(866): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(883): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(913): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(923): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>d:\programming\bnaplatform\bnaplatform-weighted-network-win64-cuda7.0-20150413\src\louvain_modularity\louvain_modu_x\l_modularityx_cpu.cpp(931): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Louvain_Modularity\Louvain_Modularity\Debug\Louvain_Modu_x.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Louvain_Modularity\Louvain_Modularity\Debug\Louvain_Modu_x.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Louvain_Modularity\Louvain_Modularity\Debug\Louvain_Modu_x.lib" /MACHINE:X86 Debug\L_Modularityx_CPU.obj
+         Debug\Maslov.obj
+         Debug\Timer.obj
+         Louvain_Modu_x.vcxproj -> D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Louvain_Modularity\Louvain_Modularity\Debug\Louvain_Modu_x.exe
+     1>已完成生成项目“D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Louvain_Modularity\Louvain_Modu_x\Louvain_Modu_x.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.15

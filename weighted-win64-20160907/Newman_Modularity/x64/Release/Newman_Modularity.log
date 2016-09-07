@@ -1,0 +1,34 @@
+﻿生成启动时间为 2016/8/29 20:46:51。
+     1>项目“D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Newman_Modularity\Newman_Modularity.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I../common /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\include" /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D WIN64 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt Modularity_CPU.cpp Modularity_main.cpp
+         Modularity_CPU.cpp
+     1>Modularity_CPU.cpp(239): warning C4101: “k_s”: 未引用的局部变量
+     1>Modularity_CPU.cpp(240): warning C4101: “k”: 未引用的局部变量
+     1>Modularity_CPU.cpp(414): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>Modularity_CPU.cpp(419): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>Modularity_CPU.cpp(472): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+         Modularity_main.cpp
+     1>Modularity_main.cpp(204): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\x64\Release\Newman_Modularity.exe" /NOLOGO /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\lib\x64" cublas.lib cusparse.lib cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\x64\Release\Newman_Modularity.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\x64\Release\Newman_Modularity.lib" /MACHINE:X64 x64\Release\modularity_GPU.cu.obj
+         x64\Release\Maslov.obj
+         x64\Release\Modularity_CPU.obj
+         x64\Release\Modularity_main.obj
+         x64\Release\Timer.obj
+         正在生成代码
+         已完成代码的生成
+         Newman_Modularity.vcxproj -> D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\x64\Release\Newman_Modularity.exe
+       PostBuildEvent:
+         echo copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\x64\Release\"
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\x64\Release\"
+         :VCEnd
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\x64\Release\"
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart32_70.dll
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart64_70.dll
+         已复制         2 个文件。
+     1>已完成生成项目“D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Newman_Modularity\Newman_Modularity.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.03

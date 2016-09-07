@@ -1,0 +1,14 @@
+BFW_Lp	D:\Programming\testdata\fMRI\G0001_25218_spa1.000%_cor0.510_weighted.csrGPU	kernel time	85.2952s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	0s
+BFW_Lp	D:\Programming\testdata\fMRI\G0002_25218_spa1.000%_cor0.490_weighted.csrGPU	kernel time	84.9285s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	0s
+BFW_Lp	D:\Programming\testdata\fMRI\K0001_25218_spa1.000%_cor0.559_weighted.csrGPU	kernel time	84.8557s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	3.6654e-007s
+BFW_Lp	D:\Programming\testdata\fMRI\K0002_25218_spa1.000%_cor0.432_weighted.csrGPU	kernel time	85.0253s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	3.6654e-007s
+BFW_Lp	D:\Programming\testdata\fMRI\L0001_25218_spa1.000%_cor0.698_weighted.csrGPU	kernel time	85.0196s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	0s
+BFW_Lp	D:\Programming\testdata\fMRI\L0002_25218_spa1.000%_cor0.541_weighted.csrGPU	kernel time	85.0013s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	0s
+BFW_Lp	GPU	total time	510.877s
+

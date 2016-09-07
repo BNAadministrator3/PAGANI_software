@@ -1,0 +1,8 @@
+Modularity(+maslov)	D:\Programming\testdata\fMRI\G0001_25218_spa1.000%_cor0.510_weighted.csrCPU	kernel time	98.9876s
+Modularity(+maslov)	D:\Programming\testdata\fMRI\G0002_25218_spa1.000%_cor0.490_weighted.csrCPU	kernel time	84.7506s
+Modularity(+maslov)	D:\Programming\testdata\fMRI\K0001_25218_spa1.000%_cor0.559_weighted.csrCPU	kernel time	67.5374s
+Modularity(+maslov)	D:\Programming\testdata\fMRI\K0002_25218_spa1.000%_cor0.432_weighted.csrCPU	kernel time	41.5909s
+Modularity(+maslov)	D:\Programming\testdata\fMRI\L0001_25218_spa1.000%_cor0.698_weighted.csrCPU	kernel time	116.862s
+Modularity(+maslov)	D:\Programming\testdata\fMRI\L0002_25218_spa1.000%_cor0.541_weighted.csrCPU	kernel time	82.4836s
+Modularity(+maslov)	D:\Programming\MATLAB\Test\103414_resliced_25218_spa0.100%_cor0.322_weighted.csrCPU	kernel time	170.841s
+Modularity(+maslov)	D:\Programming\MATLAB\Test\103414_resliced_25218_spa0.100%_cor0.322_weighted.csrCPU	kernel time	109.962s

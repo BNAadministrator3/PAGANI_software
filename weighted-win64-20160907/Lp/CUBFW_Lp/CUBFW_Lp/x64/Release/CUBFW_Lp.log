@@ -1,0 +1,37 @@
+﻿生成启动时间为 2015/9/24 16:47:57。
+     1>项目“D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Lp\CUBFW_Lp\CUBFW_Lp\CUBFW_Lp.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I..\..\..\common /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\include" /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D WIN64 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt CUBFW_Lp_main.cpp
+         CUBFW_Lp_main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\..\bin\CUBFW_Lp.exe" /NOLOGO /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\lib\x64" cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\..\..\bin\CUBFW_Lp.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\..\bin\CUBFW_Lp.lib" /MACHINE:X64 x64\Release\CUBFW_ph1.cu.obj
+         x64\Release\CUBFW_ph2.cu.obj
+         x64\Release\CUBFW_ph3.cu.obj
+         x64\Release\cuTranspose.cu.obj
+         x64\Release\APSP_BFS.obj
+         x64\Release\BFW.obj
+         x64\Release\CUBFW.obj
+         x64\Release\CUBFW_Lp.obj
+         x64\Release\CUBFW_Lp_main.obj
+         x64\Release\FormBlock.obj
+         x64\Release\Maslov.obj
+         x64\Release\mytimer.obj
+         x64\Release\Timer.obj
+         正在生成代码
+         已完成代码的生成
+     1>cuTranspose.cu.obj : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“cuTranspose.cu.obj”或在“D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\bin\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         CUBFW_Lp.vcxproj -> D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Lp\CUBFW_Lp\CUBFW_Lp\..\..\..\..\bin\CUBFW_Lp.exe
+       PostBuildEvent:
+         echo copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "..\..\..\..\bin\"
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "..\..\..\..\bin\"
+         :VCEnd
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "..\..\..\..\bin\"
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart32_70.dll
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart64_70.dll
+         已复制         2 个文件。
+     1>已完成生成项目“D:\Programming\BNAplatform\BNAPlatform-weighted-network-win64-cuda7.0-20150413\src\Lp\CUBFW_Lp\CUBFW_Lp\CUBFW_Lp.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.88

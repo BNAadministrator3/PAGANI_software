@@ -1,0 +1,44 @@
+Degree	D:\dataTumor\rt_21318_spa1.681%_cor0.700.csrCPU	kernel time	0s
+Degree	D:\dataTumor\rt_21318_spa4.090%_cor0.600.csrCPU	kernel time	0s
+Degree	D:\dataTumor\rt_21318_spa8.230%_cor0.500.csrCPU	kernel time	0s
+Degree	CPU	total time	0.233s
+
+Degree	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrCPU	kernel time	0.006s
+Degree	D:\data_test\N0002_4DVolume_25218_spa1.057%_cor0.500.csrCPU	kernel time	0.006s
+Degree	D:\data_test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	0.003s
+Degree	CPU	total time	0.211s
+
+Degree	D:\Programming\testdata\fMRI\G0001_25218_spa1.000%_cor0.510_weighted.csrCPU	kernel time	0.008s
+Degree	D:\Programming\testdata\fMRI\G0002_25218_spa1.000%_cor0.490_weighted.csrCPU	kernel time	0.008s
+Degree	D:\Programming\testdata\fMRI\K0001_25218_spa1.000%_cor0.559_weighted.csrCPU	kernel time	0.007s
+Degree	D:\Programming\testdata\fMRI\K0002_25218_spa1.000%_cor0.432_weighted.csrCPU	kernel time	0.007s
+Degree	D:\Programming\testdata\fMRI\L0001_25218_spa1.000%_cor0.698_weighted.csrCPU	kernel time	0.007s
+Degree	D:\Programming\testdata\fMRI\L0002_25218_spa1.000%_cor0.541_weighted.csrCPU	kernel time	0.007s
+Degree	CPU	total time	0.606s
+
+Degree	D:\Data\Data\HCPdata\4mm\weighted\103414_resliced_25218_spa40.396%_cor0.000_weighted.csrCPU	kernel time	0.287s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\105115_resliced_25218_spa39.791%_cor0.000_weighted.csrCPU	kernel time	0.283s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\115320_resliced_25218_spa39.169%_cor0.000_weighted.csrCPU	kernel time	0.279s
+Degree	CPU	total time	32.763s
+
+Degree	D:\Data\Data\HCPdata\4mm\weighted\103414_resliced_025218_spa0.626%_cor0.230_weighted.csrCPU	kernel time	0.004s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\103414_resliced_025218_spa44.616%_cor0.000_weighted.csrCPU	kernel time	0.324s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\105115_resliced_025218_spa0.685%_cor0.230_weighted.csrCPU	kernel time	0.008s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\105115_resliced_025218_spa43.968%_cor0.000_weighted.csrCPU	kernel time	0.328s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\115320_resliced_025218_spa1.052%_cor0.230_weighted.csrCPU	kernel time	0.013s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\115320_resliced_025218_spa43.262%_cor0.000_weighted.csrCPU	kernel time	0.306s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\117122_resliced_025218_spa1.779%_cor0.230_weighted.csrCPU	kernel time	0.015s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\117122_resliced_025218_spa44.511%_cor0.000_weighted.csrCPU	kernel time	0.317s
+Degree	CPU	total time	138.903s
+
+Degree	D:\Data\Data\HCPdata\4mm\weighted\103414_resliced_025218_spa0.626%_cor0.230_weighted.csrCPU	kernel time	0.005s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\103414_resliced_025218_spa44.616%_cor0.000_weighted.csrCPU	kernel time	0.323s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\105115_resliced_025218_spa0.685%_cor0.230_weighted.csrCPU	kernel time	0.006s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\105115_resliced_025218_spa43.968%_cor0.000_weighted.csrCPU	kernel time	0.325s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\115320_resliced_025218_spa1.052%_cor0.230_weighted.csrCPU	kernel time	0.008s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\115320_resliced_025218_spa43.262%_cor0.000_weighted.csrCPU	kernel time	0.309s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\117122_resliced_025218_spa1.779%_cor0.230_weighted.csrCPU	kernel time	0.015s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\117122_resliced_025218_spa44.511%_cor0.000_weighted.csrCPU	kernel time	0.334s
+Degree	D:\Data\Data\HCPdata\4mm\weighted\4DResliced_f100307_resliced_0001_025218_spa1.010%_cor0.230_weighted.csrCPU	kernel time	0.008s
+Degree	CPU	total time	119.42s
+
