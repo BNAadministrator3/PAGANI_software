@@ -1,0 +1,56 @@
+168 files to be processed.
+
+calculating Lp for E:\data\female\100307_0195144_spa0.050%_cor0.398_weighted.csr ...
+numEdges = 19040702; 0
+APSP computing started...
+
+isolated vertices number : 20818
+Lp_result: 5.58995
+average Lp:	5.58995
+Elapsed time: 6267.47 s.
+Save nodal efficiency for each node as E:\data\female\100307_0195144_spa0.050%_cor0.398_weighted_eff.nm
+Calculating Lp for random networks...
+Elapsed time: 0 s.
+Save Lp for the brain network and random networks as E:\data\female\100307_0195144_spa0.050%_cor0.398_weighted_Lp.txt
+
+calculating Lp for E:\data\female\100307_0195144_spa0.100%_cor0.356_weighted.csr ...
+numEdges = 38081422; 0
+APSP computing started...
+
+isolated vertices number : 10789
+Lp_result: 4.05821
+average Lp:	4.05821
+Elapsed time: 11218.2 s.
+Save nodal efficiency for each node as E:\data\female\100307_0195144_spa0.100%_cor0.356_weighted_eff.nm
+Calculating Lp for random networks...
+Elapsed time: 0 s.
+Save Lp for the brain network and random networks as E:\data\female\100307_0195144_spa0.100%_cor0.356_weighted_Lp.txt
+
+calculating Lp for E:\data\female\103414_0195144_spa0.050%_cor0.374_weighted.csr ...
+numEdges = 19040780; 0
+APSP computing started...
+
+isolated vertices number : 13912
+Lp_result: 5.53834
+average Lp:	5.53834
+Elapsed time: 6245.89 s.
+Save nodal efficiency for each node as E:\data\female\103414_0195144_spa0.050%_cor0.374_weighted_eff.nm
+Calculating Lp for random networks...
+Elapsed time: 3.66538e-007 s.
+Save Lp for the brain network and random networks as E:\data\female\103414_0195144_spa0.050%_cor0.374_weighted_Lp.txt
+
+calculating Lp for E:\data\female\103414_0195144_spa0.100%_cor0.328_weighted.csr ...
+numEdges = 38081704; 0
+APSP computing started...
+
+isolated vertices number : 7544
+Lp_result: 3.9183
+average Lp:	3.9183
+Elapsed time: 11293.8 s.
+Save nodal efficiency for each node as E:\data\female\103414_0195144_spa0.100%_cor0.328_weighted_eff.nm
+Calculating Lp for random networks...
+Elapsed time: 0 s.
+Save Lp for the brain network and random networks as E:\data\female\103414_0195144_spa0.100%_cor0.328_weighted_Lp.txt
+
+calculating Lp for E:\data\female\103515_0195144_spa0.050%_cor0.436_weighted.csr ...
+numEdges = 19040708; 0
